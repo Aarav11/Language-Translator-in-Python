@@ -11,7 +11,7 @@ Tkinter is a standard GUI Python library. ttk module gives access to the Tk them
 
 googletrans is a module to translate text. We import the Translator from googletrans, which is used to do translations. We also import LANGUAGES from googletrans which lists all supported languages in a Python dictionary.
 
-# Liblaries Used In This Project : 
+# Libraries Used In This Project : 
 Tkinter and gooletrans
 
 # About Language Translator
